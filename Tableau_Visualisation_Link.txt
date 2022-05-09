@@ -1,0 +1,18 @@
+Relation between Covid_infections_per_month AND Vaccnies_administered_per_month In India
+
+https://public.tableau.com/views/RelationbetweenCovid_infections_per_monthANDVaccnies_administered_per_monthInIndia/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+Percent_of_India's_Population_once_Infected_with_Covid-19
+
+https://public.tableau.com/views/Percent_of_Indias_Population_once_Infected_with_Covid-19/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+Total Cases VS Death Percentage In India (Shows the likelihood of dying from Covid-19)
+
+https://public.tableau.com/views/TotalCasesVSDeathPercentageInIndiaShowsthelikelihoodofdyingfromCovid-19/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
